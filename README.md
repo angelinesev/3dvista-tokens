@@ -1,0 +1,1 @@
+I have been researching a way to move our virtual tour production from a Manual Design Workflow to a Spec-Driven System. By using a 'Design Token' framework hosted on our GitHub, we can separate our UI's 'Logic' from its 'Visuals.' This allows us to update the entire look, branding, and content of our tours globally without ever re-opening the 3DVista project file.
